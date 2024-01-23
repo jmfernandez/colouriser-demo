@@ -1,4 +1,4 @@
-FROM node AS base
+FROM node:erbium AS base
 
 WORKDIR /app
 
